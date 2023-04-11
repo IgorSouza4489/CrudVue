@@ -1,0 +1,98 @@
+.botao-paginas2:hover{
+    background-color: transparent;
+    color: #008D53;
+  }
+    
+    .error{
+      color:red
+    }
+  
+    select{
+      padding: 10px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      outline: none;
+      color: #008D53;
+    }
+  
+    option{
+      font-size: 16px;
+    }
+  
+    .form-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top:10px;
+      padding:20px;
+      color: white;
+    }
+    
+    form {
+      display: flex;
+      flex-direction: column;
+      max-width: 400px;
+      width: 100%;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #ffffff;
+    }
+    
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 20px;
+    }
+    
+    .form-group label {
+      margin-bottom: 5px;
+      text-align: left;
+      color: #008D53;
+    }
+    
+    .form-group input {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+     
+    }
+    
+    .form-group #btn{
+        background-color: #008D53;
+        border: 0;
+      color: #F9EC00;
+    }
+    
+    .form-group-links {
+      display: flex;
+      justify-content: right;
+      align-items: center;
+      padding: 20px;
+    }
+    
+    .form-group-links a {
+      font-size: 14px;
+      color: #008D53;
+      text-decoration: none;
+    }
+    
+    .form-group-links span {
+      margin: 0 10px;
+    }
+
+    #filterButton {
+      background-color: #009054;
+      border: 1px solid;
+      border-radius: 15px;
+      color: white;
+      width: 100px;
+      margin: 10px;
+      padding: 10px;
+    }
+    
+    #filterButton:hover {
+      background-color: #008d53;
+      color: #f9ec00;
+    }
