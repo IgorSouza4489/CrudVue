@@ -1,4 +1,4 @@
-# atvue
+# Crud Vue
 
 ## Project setup
 ```
